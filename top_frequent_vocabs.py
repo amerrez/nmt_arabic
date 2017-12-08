@@ -2,8 +2,8 @@ import collections
 
 # The following assumes that we already have the text file on disk.
 # Start by splitting the file into lowercase words.
-k = 10
-words = open('data.txt').read().lower().split()
+k = 50000
+words = open('testtext.txt').read().lower().split()
 
 # Get the set of unique words.
 
