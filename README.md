@@ -1,5 +1,5 @@
 # nmt_arabic
-The neural network in this repo is from the google [blog](https://github.com/tensorflow/nmt).
+The neural network in this repo is from the google nmt [blog](https://github.com/tensorflow/nmt).
 
 I worked on the English-Arabic data from [here](http://www.casmacat.eu/corpus/news-commentary.html)
 and convert it to the format required by the google nmt network in the blog mentioned [above](https://github.com/tensorflow/nmt).
